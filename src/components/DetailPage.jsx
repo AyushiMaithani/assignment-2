@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import { ChevronLeft, Calendar, BookOpen, FileText, Download } from 'lucide-react';
+import { ChevronLeft} from 'lucide-react';
 import { motion } from 'framer-motion';
 import { 
   examData, 
